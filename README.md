@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](White Minimalist Profile LinkedIn Banner.png)
+![Banner](https://github.com/anshika0912/anshika/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 
 <!-- GIF -->
 ![GIF](https://your-image-url.com/your-animated-gif.gif)
