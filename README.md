@@ -12,7 +12,7 @@ I'm a passionate software developer who loves coding and exploring new technolog
 
 - 💻 Programming Languages: Python, JavaScript
 - 🌐 Website: [Your Portfolio Website](https://your-portfolio-website.com)
-- 📫 Email: your.email@example.com
+- 📫 Email: anshumishra0067@gmail.com
 
 ## GitHub Stats
 
