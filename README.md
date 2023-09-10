@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner]([https://your-image-url.com/your-banner-image.png](https://www.canva.com/design/DAFuCYai-PI/NH-QPhiLHtIX9Jn_mCjA5w/edit?utm_content=DAFuCYai-PI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![Banner](White Minimalist Profile LinkedIn Banner.png)
 
 <!-- GIF -->
 ![GIF](https://your-image-url.com/your-animated-gif.gif)
